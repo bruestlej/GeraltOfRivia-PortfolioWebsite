@@ -1,0 +1,36 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: #F2E0D5;
+}
+
+nav {
+  background-color: #2B2120;
+}
+
+button {
+  
+}
+
+header {
+  background-color: #533632;
+}
+
+#portfolio {
+  color: #312D29;
+}
+
+#contact {
+  
+}
+
+#about {
+  background-color: #533632;
+}
+
+footer {
+  background-color: #533632;
+}
